@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Uas_Webtoon</string>
+    <string name="genre">GENRE</string>
+    <string name="a">a</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action">action</string>
+    <string name="adventure">adventure</string>
+    <string name="comedy">comedy</string>
+</resources>

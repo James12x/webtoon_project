@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/itemHome"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/itemNew"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="Newest" />
+        <item
+            android:id="@+id/itemPopular"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="Popular" />
+        <item
+            android:id="@+id/itemGenres"
+            android:icon="@drawable/ic_layers_black_24dp"
+            android:title="Genres" />
+    </group>
+    <group >
+        <item
+            android:id="@+id/itemMyComics"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="My Comics" />
+    </group>
+</menu>

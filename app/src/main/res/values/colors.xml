@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#8c8c8c</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="windowBackground">#ffffff</color>
+    <color name="colorControlNormal">#41e179</color>
+    <color name="transparent">#00ffffff</color>
+</resources>
